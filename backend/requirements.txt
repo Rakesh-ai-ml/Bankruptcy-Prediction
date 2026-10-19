@@ -1,0 +1,9 @@
+pandas
+joblib
+scikit-learn
+catboost
+pydantic
+fastapi
+uvicorn[standard]
+python-box
+pyarrow

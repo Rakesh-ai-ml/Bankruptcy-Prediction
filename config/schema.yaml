@@ -1,0 +1,24 @@
+COLUMNS:
+  
+  - year
+  - Current assets
+  - Cost of goods sold
+  - Depreciation and amortization
+  - EBITDA
+  - Inventory
+  - Net Income
+  - Total Receivables
+  - Market value
+  - Net sales
+  - Total assets
+  - Total Long-term debt
+  - EBIT
+  - Gross Profit
+  - Total Current Liabilities
+  - Retained Earnings 
+  - Total Revenue
+  - Total Liabilities
+  - Total Operating Expenses
+  
+TARGET: status_label
+  
